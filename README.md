@@ -1,0 +1,2 @@
+# gosample
+golang sample repository
